@@ -1,0 +1,39 @@
+.bodyinfo{
+    width:490px;
+    display: inline-block;
+    padding-left: 495px;
+}
+
+
+p{
+    color: white;
+    font-family: Adamina;
+    
+}
+
+.p1 {
+    color: white;
+    padding-top: 150px;
+    font-size: 32px;
+}
+
+.p2{
+    padding-top:40px;
+    color:white;
+    font-size:16px;
+    width:400px;
+    padding-left:50px;
+    
+}
+
+.p3{
+    color:white;
+    font-size:16px;
+
+}
+
+hr{
+    border: 2px solid #800000;
+    position: center;
+    
+}

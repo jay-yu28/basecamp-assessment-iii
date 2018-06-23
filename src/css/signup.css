@@ -1,0 +1,13 @@
+button {
+    border-radius: 25px;
+    background-color: #800000;
+    padding: 5px 15px;
+    color: white;
+    border-color: black;
+
+}
+
+.buttonplacement{
+    padding-left: 700px;
+    padding-top: 40px;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Adamina');
+
+nav {
+    width: 100%;
+    background-color: rgb(33,34,35);
+    padding: 15px 0px;
+}
+
+
+ul {
+    margin: 0px;
+    text-align: right;
+    
+}
+
+li {
+    display: inline;
+    list-style: none;
+    font-size: 24px;
+    color: white;
+    padding-right: 30px;
+    font-family: Adamina;
+}
+
+.title{
+    font-family: Adamina;
+    font-size: 42px;
+    /* vertica-align: middle; */
+    letter-spacing: 3px;
+    /* float:left;  */
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 58px;
+    padding-left: 20px;
+}
+
+.z {
+    color:#800000;
+}
+

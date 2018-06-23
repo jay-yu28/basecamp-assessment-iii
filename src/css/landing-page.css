@@ -1,0 +1,19 @@
+.background-img {
+    background-image: url('../images/Gainz2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100%;
+    position: absolute;
+    z-index: -1;
+}
+
+p {
+    margin:0;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    width: 500px;
+
+}
